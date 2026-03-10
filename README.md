@@ -17,8 +17,9 @@ Incluye operaciones CRUD y un endpoint de paginación con filtros.
 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/hardraco/modulo4-proyecto.git
+cd modulo4-proyecto
+
 ```
 
 2. Instalar dependencias
